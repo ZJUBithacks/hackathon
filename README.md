@@ -9,4 +9,4 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 ### Contents
 |      |    Team    |   Member    |                  Title                   |
 | ---- | :--------: | :---------: | :--------------------------------------: |
-| 1    | BitFly | Zhengjie Huang, Yan Chen <br>  | xxx |
+| 1    | BitFly | Zhengjie Huang, Yan Chen <br>  | [立个"FlAG"] (https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly) |
