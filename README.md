@@ -4,6 +4,8 @@ This repository contains a list of decentralized applications, which are built d
 
 Disclaimer: Code implementations here are purely for educational purposes. In each project directory, there will be a README describing the technical details.
 
+[Project 1: RSA](https://github.com/BerkeleyBlockchain/Cryptography/tree/master/rsa-scheme)
+
 ## Shanghai
 
 ### Contents
