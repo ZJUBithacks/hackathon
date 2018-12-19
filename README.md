@@ -1,4 +1,4 @@
-# Hackthon Bitrun 2018
+# Hackathon Bitrun 2018
 
 This repository contains a list of decentralized applications, which are built during the 42h bitrun hackathon challenge by our bithackers. 
 
