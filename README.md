@@ -17,8 +17,4 @@ Scratch is a free programming language and online community where you can create
 
 - [立个“FlAG” (A hostage to fortune)](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly). Team BitFly members: Zhengjie Huang, Yan Chen, BaoBao Jia, Yan Wang, LinYi Qi.
 
- ![1](./figure/Shanghai/des2.PNG)
-
- ![1](./figure/Shanghai/des3.PNG)
- 
- ![1](./figure/Shanghai/des4.PNG)
+<div align=center><img width="50%" height="50%" src="figure/Hangzhou/des8.PNG"/>  <img width="50%" height="50%" src="figure/Hangzhou/des6.PNG"/></div>
