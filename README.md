@@ -13,6 +13,6 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
   
 ## Shanghai
 
-- [立个“FlAG” (A hostage to fortune)](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly). Team BitFly members: Zhengjie Huang, Yan Chen, BaoBao Jia, Yan Wang, LinYi Qi.
+- [立个“FlAG” (A hostage to fortune)](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly). Team BitFly members: Zhengjie Huang, Yan Chen, Baobao Jia, Yan Wang, Linyi Qi.
 
 <div align=center><img width="40%" height="50%" src="figure/Shanghai/des8.png"/>  <img width="60%" height="50%" src="figure/Shanghai/des6.png"/></div>
