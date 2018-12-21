@@ -7,6 +7,9 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 ## Shanghai
 
 ### Contents
-|      |    Team    |   Member    |                  Title                   |
+
+- BitFly. Zhengjie Huang, Yan Chen. [立个"FlAG"](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly)
+
+|      |    Team    |   Member    |                  Project                   |
 | ---- | :--------: | :---------: | :--------------------------------------: |
 | 1    | BitFly | Zhengjie Huang, Yan Chen <br>  | [立个"FlAG"](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly) |
