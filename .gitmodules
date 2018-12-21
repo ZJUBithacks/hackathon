@@ -1,3 +1,6 @@
 [submodule "BitFly"]
 	path = BitFly
 	url = git@github.com:AwesomeHuang/Shanghai-Hackthon-BitFly
+[submodule "Incas"]
+	path = Incas
+	url = git@github.com:AwesomeHuang/Hangzhou-Hackthon-Incas
