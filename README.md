@@ -10,7 +10,7 @@ Scratch is a free programming language and online community where you can create
 
 - [Scoser - Interactive Smart Contract Online Building Platform](https://github.com/AwesomeHuang/Hangzhou-Hackthon-Incas). Team Incas members: Zhengjie Huang, Jianhai Chen, Jueyu Li, Xiaowen Xu, Jie Zhang.
 
-<div align=center><img width="50%" height="50%" src="figure/Hangzhou/des2.PNG"/>  <img width="40%" height="40%" src="figure/Hangzhou/des3.PNG"/></div>
+<div align=center><img width="50%" height="50%" src="figure/Hangzhou/des2.PNG"/>  <img width="50%" height="50%" src="figure/Hangzhou/des3.PNG"/></div>
 
   
 ## Shanghai
