@@ -8,4 +8,16 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 
 - [立个“FlAG” (A hostage to fortune)](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly). Team BitFly members: Zhengjie Huang, Yan Chen.
 
-<div align=center><img width="80%" height="80%" src="figure/1.png"/></div>
+ ![1](./pic/des1.PNG)
+
+ ![1](./pic/des2.PNG)
+
+ ![1](./pic/des3.PNG)
+ 
+ ![1](./pic/des4.PNG)
+
+ ![1](./pic/des5.png)
+
+ ![1](./pic/des6.png)
+
+ ![1](./pic/des7.png)
