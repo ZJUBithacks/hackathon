@@ -6,8 +6,6 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 
 ## Hangzhou
 
-Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
-
 - [Scoser - Interactive Smart Contract Online Building Platform](https://github.com/AwesomeHuang/Hangzhou-Hackthon-Incas). Team Incas members: Zhengjie Huang, Jianhai Chen, Jueyu Li, Xiaowen Xu, Jie Zhang.
 
 <div align=center><img width="50%" height="50%" src="figure/Hangzhou/des2.PNG"/>  <img width="50%" height="50%" src="figure/Hangzhou/des3.PNG"/></div>
