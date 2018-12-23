@@ -4,3 +4,6 @@
 [submodule "Incas"]
 	path = Incas
 	url = git@github.com:AwesomeHuang/Hangzhou-Hackthon-Incas
+[submodule "Tensor"]
+	path = Tensor
+	url = git@github.com:COAOX/Tensor
