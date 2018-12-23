@@ -1,7 +1,11 @@
 # Shanghai-Hackthon-Tensor
+
 ## 简介
 我们的项目是一款基于以太坊的卡牌游戏。用户通过支付一定ETH的方式获得抽卡机会，抽卡会获得不同等级的卡牌。
 用户通过抽卡获得的卡片能够被用于收藏、对战以及拍卖。
+
+卡片拥有五种等级S、A、B、C、D，稀有度递减，更高稀有度的卡牌一般拥有更高的属性值，每张卡牌在被抽取的时候生成，属性在被抽取的时候唯一确定，并永远不可更改。
+
 
 ## 游戏特点
 
@@ -14,7 +18,7 @@
 
 4. 与传统卡牌不同的是，你可以一键拍卖自己的卡牌并获得收益。与此同时，你也能够通过拍卖的方式获得梦寐以求却始终没有抽到的稀有卡片。
 
-![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![S级卡片](https://github.com/COAOX/hackathon-bitrun/blob/master/Tensor/img/S.JPG "区块链")
 
 ## Try it
 
