@@ -18,7 +18,7 @@
 
 4. 与传统卡牌不同的是，你可以一键拍卖自己的卡牌并获得收益。与此同时，你也能够通过拍卖的方式获得梦寐以求却始终没有抽到的稀有卡片。
 
-![S级卡片](https://github.com/COAOX/hackathon-bitrun/blob/master/Tensor/img/readme.JPG "区块链")
+![card](https://github.com/COAOX/hackathon-bitrun/blob/master/Tensor/img/readme.jpg "区块链")
 
 ## Try it
 
