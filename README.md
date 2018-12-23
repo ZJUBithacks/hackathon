@@ -16,3 +16,7 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 - [立个“FlAG” (A hostage to fortune)](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly). Team BitFly members: Zhengjie Huang, Yan Chen, Baobao Jia, Yan Wang, Linyi Qi.
 
 <div align=center><img width="40%" height="50%" src="figure/Shanghai/des8.png"/>  <img width="60%" height="50%" src="figure/Shanghai/des6.png"/></div>
+
+- [xxx](https://github.com/COAOX/Tensor/tree/6c5d29f26e7802efb397385262b5847fbe9e56bd). Team Tensor members: Liang Xu, Renqian Zhang, Yiping Chen, Le Liu and Yu Cai.
+
+<div align=center><img width="40%" height="50%" src="figure/Shanghai/des8.png"/>  <img width="60%" height="50%" src="figure/Shanghai/des6.png"/></div>
