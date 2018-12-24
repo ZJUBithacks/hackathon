@@ -19,4 +19,4 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 
 - [A Trading Card Game based on ERC-721](https://github.com/COAOX/Tensor). Team Tensor members: Liang Xu, Renqian Zhang, Yiping Chen, Le Liu and Yu Cai.
 
-<div align=center><img width="45%" height="45%" src="figure/Shanghai/tensor2.png"/>  <img width="55%" height="50%" src="figure/Shanghai/tensor1.png"/></div>
+<div align=center><img width="45%" height="45%" src="figure/Shanghai/tensor2.png"/>  <img width="50%" height="45%" src="figure/Shanghai/tensor1.png"/></div>
