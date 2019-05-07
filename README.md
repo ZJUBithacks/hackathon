@@ -12,7 +12,7 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 
 - [ChainStudio - Integrated IDE and Tools for Ethereum, EOS and Nervos](https://github.com/wcy1231/Chain-Studio). Team PeaceLove members: Chaoyi Wu and Tianyao Gao
 
-<div align=center><img width="90%" height="50%" src="figure/Hangzhou/peace.PNG"/>
+<div align=center><img width="90%" height="50%" src="figure/Hangzhou/peace1.PNG"/>
 
 ## Shanghai
 
