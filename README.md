@@ -11,7 +11,9 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 <div align=center><img width="48%" height="50%" src="figure/Hangzhou/des2.PNG"/>  <img width="48%" height="50%" src="figure/Hangzhou/des3.PNG"/></div>
 
 - [ChainStudio - Integrated IDE and Tools for Ethereum, EOS and Nervos](https://github.com/wcy1231/Chain-Studio). Team PeaceLove members: Chaoyi Wu and Tianyao Gao
-  
+
+<div align=center><img width="90%" height="50%" src="figure/Hangzhou/peace.PNG"/>
+
 ## Shanghai
 
 - [立个“FlAG” (A Hostage to Fortune)](https://github.com/AwesomeHuang/Shanghai-Hackthon-BitFly). Team BitFly members: Zhengjie Huang, Yan Chen, Baobao Jia, Yan Wang, Linyi Qi.
