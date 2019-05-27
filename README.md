@@ -1,4 +1,4 @@
-# Hackathon BitRun 2018
+# Hackathon BitRun
 
 This repository contains a list of decentralized applications, which are implemented by our bithackers during the 42h bitrun hackathon challenge. The dapps are maintained by their respective authors. 
 
