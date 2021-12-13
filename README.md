@@ -23,3 +23,10 @@ Disclaimer: Code implementations here are purely for educational purposes. In ea
 - [A Trading Card Game based on ERC-721](https://github.com/COAOX/Tensor). Team Tensor members: Liang Xu, Renqian Zhang, Yiping Chen, Le Liu and Yu Cai.
 
 <div align=center><img width="45%" height="45%" src="figure/Shanghai/tensor2.png"/>  <img width="50%" height="45%" src="figure/Shanghai/tensor1.png"/></div>
+
+## Near
+
+- [NFTchallenge](https://github.com/mircial/NFTChallenge). A platform make nft easy created for projects, besides make all NFTs valuable.
+
+<div align=center><img width="55%" height="45%" src="figure/Shanghai/NFTChallenge.png"/> 
+
