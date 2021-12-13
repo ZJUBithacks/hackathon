@@ -7,3 +7,6 @@
 [submodule "Tensor"]
 	path = Tensor
 	url = git@github.com:COAOX/Tensor
+[submodule "NFTChallenge"]
+    path = NFTChallenge
+	url = git@github.com:mircial/NFTChallenge
